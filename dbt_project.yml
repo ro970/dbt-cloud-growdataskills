@@ -2,7 +2,7 @@
 # Name your project! Project names should contain only lowercase characters
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
-name: 'snowflake_source'
+name: 'SF_SOURCES'
 version: '1.0.0'
 config-version: 2
 

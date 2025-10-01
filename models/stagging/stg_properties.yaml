@@ -1,0 +1,8 @@
+sources:
+  - name: "SF_SOURCES"
+    database: DB_EDTECH
+    schema: SCH_EDTECH
+    tables:
+      - name: students
+      - name: enrollments
+      - name: courses
